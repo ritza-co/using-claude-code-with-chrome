@@ -1,0 +1,16 @@
+{
+  "name": "user-registration",
+  "version": "1.0.0",
+  "description": "Minimal Node.js user registration system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["express", "registration", "authentication"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcrypt": "^5.1.1"
+  }
+}
